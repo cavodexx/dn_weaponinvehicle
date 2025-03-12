@@ -1,0 +1,6 @@
+## [Unreleased]
+### Added
+- Work in progress: New logging system.
+
+### Changed
+- Refactoring the text splitting function.
